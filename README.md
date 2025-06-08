@@ -15,7 +15,7 @@ I'm a math graduate and data scientist passionate about turning theory into real
 ## 🚀 Projects
 
 - **Reinforcement Learning for Renewable Energy Grid Optimization**
-  🔭 Designing RL frameworks for energy allocation in power grids using DQN/PPO & OpenAI Gym.
+  Designing RL frameworks for energy allocation in power grids using DQN/PPO & OpenAI Gym.
 - **Ensemble Pipeline for Climate Forecasting**  
   Multivariate LSTM & Random Forest ensemble, Bayesian tuning, 99% variance explained.
 
