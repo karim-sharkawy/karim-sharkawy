@@ -1,6 +1,6 @@
 # Hi, I'm Karim El-Sharkawy 👋
 
-[![LinkedIn](https://img.shields.io/badge/-karimme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karimme/)](https://www.linkedin.com/in/karimme/) Email: karimelsharkawy2002@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-karimme-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karimme/)](https://www.linkedin.com/in/karimme/) and Email: karimelsharkawy2002@gmail.com
 
 ---
 
